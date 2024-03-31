@@ -15,4 +15,4 @@ RUN apt-get install -y \
 WORKDIR /app
 
 # GitHubからスクリプトやファイルをダウンロードするなどの操作を追加できます
-CMD ["sh", "pwd"]
+CMD ["sh", "pwd"]#this is test
